@@ -40,3 +40,8 @@ reviews .review_box .review_card i{
     bottom: 20px;
     color: #eaeaea;
 }
+reviews .review_box .review_card .card_top img{
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
